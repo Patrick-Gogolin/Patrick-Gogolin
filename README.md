@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Patrick-Gogolin
 - 👀 I’m interested in: Web Development
 - 🌱 I’m currently learning: Angular
-- 📫 How to reach me: patrick.gogolin@hotmail.com
+- 📫 How to reach me: mail@patrick-gogolin.de
 - 😄 Pronouns: He/Him
 
 <!---
