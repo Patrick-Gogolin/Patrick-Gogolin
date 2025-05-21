@@ -4,7 +4,7 @@
 
 <p align="left">My name is Patrick from Hamburg</p>
 <p align="left">Check out my <a href="https://www.patrick-gogolin.de" target="blank">Portfolio</a></p>
-###
+
 
 <h2 align="left">About me</h2>
 
