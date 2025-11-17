@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Angular<br>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Python and Django<br>
 
 ###
 
